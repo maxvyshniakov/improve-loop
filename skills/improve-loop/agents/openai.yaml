@@ -1,0 +1,4 @@
+interface:
+  display_name: "Improve Loop"
+  short_description: "Scout and run bounded improvements"
+  default_prompt: "Use $improve-loop with no arguments to scout and rank 5–10 improvement candidates, then ask me which numbers to run."
