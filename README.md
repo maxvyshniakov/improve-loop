@@ -43,7 +43,7 @@ instead of silently substituting an unavailable executor or critic.
 Clone the repository and copy the skill into your Codex skill directory:
 
 ```bash
-git clone https://gitlab.sparta.business/skipstery/improve-loop.git
+git clone https://github.com/skipstery/improve-loop.git
 mkdir -p "${CODEX_HOME:-$HOME/.codex}/skills"
 cp -R improve-loop/skills/improve-loop "${CODEX_HOME:-$HOME/.codex}/skills/improve-loop"
 ```
